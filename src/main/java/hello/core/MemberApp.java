@@ -15,5 +15,6 @@ public class MemberApp {
 
         System.out.println("new Member = " + member.getName());
         System.out.println("find Member = " + findMember.getName());
+        System.out.println("커밋 테스트");
     }
 }
